@@ -31,20 +31,6 @@ Welcome to our GastroGoods e-commerce platform! This project utilizes Next.js fo
 - MongoDB instance set up
 - Cloudinary account for image storage
 
-### Installation
-
-1. **Clone the repository :**
-
-   ```bash
-   git clone https://github.com/DeelakaLakpura/GastroGoods.git
-
-   cd GastroGoods
-   npm install
-   npm run dev
-   npm test
-
-   
-
 
 
 ## screenshots -
