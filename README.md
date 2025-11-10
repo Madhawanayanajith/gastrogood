@@ -1,35 +1,33 @@
+Project: Gastrogood eccomerce Website Testing
 
-# GastroGoods E-Commerce Platform
+## 🔹 Project Overview
+This project demonstrates **manual and automation testing** for an e-commerce website.  
+It includes **test planning, writing test cases, reporting bugs**, performing **manual testing**, and **automating key test flows**.
 
-Welcome to our GastroGoods e-commerce platform! This project utilizes Next.js for the frontend, Prisma for database management, MongoDB for data storage, Cloudinary for image storage, and NextAuth for authentication.
+**Tested Application:**  E-commerce Website  
+**Type of Testing:** Manual & Automation  
+**Tools Used:** Excel, Selenium WebDriver, GitHub  
+
+---
+
+## 🔹 What I Did
+- 📝 Created a **Test Plan** for the website  
+- ✅ Wrote and executed **Test Cases** for features like login, search, add to cart, and checkout , and admin role features add product , manage products 
+- 🐞 Logged **Bug Reports** during manual testing  
+- ⚙️ Automated critical flows using **Selenium WebDriver**
+
+---
 
 
-## Demo - <a href="https://gastrogoods.netlify.app/" target="_blank">Click Here!</a>
-## Admin Demo - <a href="https://gastrogoods.netlify.app/admin" target="_blank">Click Here!</a>
 
-## Login Details
-  E-Mail - Admin@gmail.com<br>
-  Password - Admin1234
+## 🔹 Key Skills Demonstrated
+- Writing clear and effective **test cases**  
+- Creating and executing a **test plan**  
+- Reporting **bugs professionally**  
+- Automating **test workflows** using Selenium and java 
+- Understanding **end-to-end QA processes**
 
-## Features
-
-- **Next.js:** The frontend is built using Next.js, a React framework that enables server-side rendering and other performance optimizations.
-
-- **Prisma:** Prisma is used as the database toolkit to access and manage the MongoDB database.
-
-- **MongoDB:** MongoDB is used as the primary database for storing product information and other relevant data.
-
-- **Cloudinary:** Cloudinary is utilized for efficient and scalable image storage and management.
-
-- **NextAuth:** NextAuth is integrated for user authentication, making it easy to implement secure user login and registration.
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js and npm installed
-- MongoDB instance set up
-- Cloudinary account for image storage
+---
 
 
 
